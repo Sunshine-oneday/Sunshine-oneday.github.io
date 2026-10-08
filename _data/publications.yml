@@ -1,0 +1,175 @@
+- title: "HarmVideoBench: Benchmarking Harmful Video Understanding in Large Multimodal Models"
+  selected_order: 1
+  status: "preprint"
+  topic: "Video Safety"
+  topic_zh: "视频安全"
+  year: 2026
+  co_first: true
+  author_role: "Co-first author"
+  authors: []
+  authors_display: "<strong>Jiajun Wu</strong><sup>*</sup>, Haoyu Kang<sup>*</sup>, Yining Sun<sup>*</sup>, et al."
+  main_link: "https://arxiv.org/abs/2606.27187"
+  pdf: "https://arxiv.org/pdf/2606.27187"
+  arxiv: "https://arxiv.org/abs/2606.27187"
+  image: "images/publications/harmvideobench.jpg"
+  image_fit: "contain"
+  keywords: "Harmful Video Understanding, Multimodal Models, Benchmarking"
+  keywords_zh: "有害视频理解，多模态模型，基准评测"
+  abstract: "A benchmark for evaluating harmful video understanding in large multimodal models."
+  abstract_zh: "面向大型多模态模型有害视频理解能力的基准测试。"
+
+- title: "VPA-Guard: Defending and Benchmarking Image-to-Video Generation Against Visual Prompt Attacks"
+  selected_order: 2
+  status: "preprint"
+  topic: "Multimodal Safety"
+  topic_zh: "多模态安全"
+  year: 2026
+  co_first: true
+  author_role: "Co-first author"
+  authors: []
+  authors_display: "Yining Sun<sup>*</sup>, Haoyu Kang<sup>*</sup>, <strong>Jiajun Wu</strong><sup>*</sup>, et al."
+  main_link: "https://arxiv.org/abs/2606.25592"
+  pdf: "https://arxiv.org/pdf/2606.25592"
+  arxiv: "https://arxiv.org/abs/2606.25592"
+  code: "https://github.com/HaoyuLucasKang/VPA-Guard"
+  image: "images/publications/vpa-guard.jpg"
+  image_fit: "contain"
+  keywords: "Visual Prompt Attacks, Image-to-Video Generation, Safety"
+  keywords_zh: "视觉提示攻击，图像生成视频，安全"
+  abstract: "A benchmark and defense study for visual prompt attacks against image-to-video generation."
+  abstract_zh: "研究针对图像生成视频模型的视觉提示攻击，并提出相应基准与防御方法。"
+
+- title: "SWE-Prometheus: Measuring Engineering Governance Improvements in Real-World Repositories"
+  selected_order: 3
+  status: "preprint"
+  topic: "Software Engineering"
+  topic_zh: "软件工程"
+  year: 2026
+  co_first: true
+  author_role: "Co-first author"
+  authors: []
+  authors_display: "<strong>Jiajun Wu</strong><sup>*</sup>, Leixin Sun<sup>*</sup>, Zihan Tan<sup>*</sup>, et al."
+  main_link: "https://arxiv.org/abs/2609.29465"
+  pdf: "https://arxiv.org/pdf/2609.29465"
+  arxiv: "https://arxiv.org/abs/2609.29465"
+  project: "https://swe-prometheus.github.io/"
+  image: "images/publications/swe-prometheus.jpg"
+  image_fit: "contain"
+  keywords: "Software Engineering Agents, Engineering Governance, Repository Benchmarks"
+  keywords_zh: "软件工程智能体，工程治理，代码仓库基准"
+  abstract: "A benchmark for measuring engineering governance improvements in real-world repositories."
+  abstract_zh: "用于衡量软件工程智能体在真实代码仓库中带来的工程治理改进。"
+
+- title: "SWE-PolyVision: Benchmarking Cross-Image Abductive Reasoning for Repository-Level Software Engineering"
+  selected_order: 4
+  status: "preprint"
+  topic: "Agentic AI"
+  topic_zh: "智能体 AI"
+  year: 2026
+  co_first: true
+  author_role: "Co-first author"
+  authors: []
+  authors_display: "<strong>Jiajun Wu</strong><sup>*</sup>, Leixin Sun<sup>*</sup>, Zihan Tan<sup>*</sup>, et al."
+  main_link: "https://arxiv.org/abs/2609.29754"
+  pdf: "https://arxiv.org/pdf/2609.29754"
+  arxiv: "https://arxiv.org/abs/2609.29754"
+  code: "https://github.com/CosmosMind-ai/SWE-PolyVision"
+  image: "images/publications/swe-polyvision.jpg"
+  image_fit: "contain"
+  keywords: "Cross-Image Reasoning, Repository-Level Software Engineering, Agents"
+  keywords_zh: "跨图像推理，仓库级软件工程，智能体"
+  abstract: "A benchmark for cross-image abductive reasoning in repository-level software engineering."
+  abstract_zh: "面向仓库级软件工程任务中跨图像溯因推理能力的基准测试。"
+
+- title: "OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Models"
+  status: "published"
+  topic: "Multimodal Reasoning"
+  topic_zh: "多模态推理"
+  venue: "ACL"
+  venue_note: "Main Conference"
+  year: 2026
+  author_role: "Third author"
+  authors: []
+  authors_display: "Qiguang Chen, Chengyu Luan, <strong>Jiajun Wu</strong>, et al."
+  main_link: "https://aclanthology.org/2026.acl-long.2090/"
+  paper_url: "https://aclanthology.org/2026.acl-long.2090/"
+  arxiv: "https://arxiv.org/abs/2604.20806"
+  image: "images/publications/omibench.jpg"
+  image_fit: "contain"
+  keywords: "Multi-Image Reasoning, Vision-Language Models, Benchmarking"
+  keywords_zh: "多图推理，视觉语言模型，基准评测"
+  abstract: "A benchmark for Olympiad-level reasoning across multiple images in large vision-language models."
+  abstract_zh: "评测大型视觉语言模型跨多张图像进行奥赛级推理能力的基准。"
+
+- title: "CoTrek: Toward Scalable On-Policy Distillation for Long Chain-of-Thought Reasoning"
+  status: "published"
+  topic: "Reasoning Agents"
+  topic_zh: "推理智能体"
+  venue: "NeurIPS"
+  venue_note: "Poster"
+  year: 2026
+  author_role: "Third author"
+  authors: []
+  authors_display: "<strong>Jiajun Wu</strong> · Third author"
+  official: "https://neurips.cc/Downloads/2026"
+  image: "images/publications/cotrek.svg"
+  image_fit: "contain"
+  keywords: "On-Policy Distillation, Chain-of-Thought Reasoning"
+  keywords_zh: "在线策略蒸馏，思维链推理"
+  abstract: "A study of scalable on-policy distillation for long chain-of-thought reasoning."
+  abstract_zh: "研究面向长思维链推理的可扩展在线策略蒸馏方法。"
+
+- title: "PolyMind: Exploring Width Scaling for Reflective Reasoning in Language Agents"
+  status: "published"
+  topic: "Reasoning Agents"
+  topic_zh: "推理智能体"
+  venue: "NeurIPS"
+  venue_note: "Poster"
+  year: 2026
+  author_role: "Third author"
+  authors: []
+  authors_display: "<strong>Jiajun Wu</strong> · Third author"
+  official: "https://neurips.cc/Downloads/2026"
+  image: "images/publications/polymind.svg"
+  image_fit: "contain"
+  keywords: "Reflective Reasoning, Width Scaling, Language Agents"
+  keywords_zh: "反思推理，宽度扩展，语言智能体"
+  abstract: "An exploration of width scaling for reflective reasoning in language agents."
+  abstract_zh: "探索语言智能体反思推理中的宽度扩展方法。"
+
+- title: "MetaRSI / RSI²: A Meta-Recursive Self-Improving System for Recursive Self-Improving Systems Themselves"
+  status: "preprint"
+  topic: "Self-Improving Systems"
+  topic_zh: "自我改进系统"
+  year: 2026
+  author_role: "Fifth author"
+  authors: []
+  authors_display: "Zihan Tan, Leixin Sun, Zitong Shi, Yitao Liu, <strong>Jiajun Wu</strong>, et al."
+  main_link: "https://arxiv.org/abs/2609.06396"
+  pdf: "https://arxiv.org/pdf/2609.06396"
+  arxiv: "https://arxiv.org/abs/2609.06396"
+  image: "images/publications/metarsi-titlemark.png"
+  image_fit: "contain"
+  keywords: "Recursive Self-Improvement, Meta-Recursive Systems"
+  keywords_zh: "递归自我改进，元递归系统"
+  abstract: "A meta-recursive system for improving recursive self-improving systems."
+  abstract_zh: "提出用于改进递归自我改进系统的元递归系统。"
+
+- title: "EvoHyper: Evolving Hypergraph Topologies for Unified Collaboration in Multi-Agent Communication"
+  status: "published"
+  topic: "Multi-Agent Systems"
+  topic_zh: "多智能体系统"
+  venue: "ACL"
+  venue_note: "Findings"
+  year: 2026
+  author_role: "Fifth author"
+  authors: []
+  authors_display: "<strong>Jiajun Wu</strong> · Fifth author"
+  main_link: "https://aclanthology.org/2026.findings-acl.1258/"
+  paper_url: "https://aclanthology.org/2026.findings-acl.1258/"
+  image: "images/publications/evohyper.svg"
+  image_fit: "contain"
+  keywords: "Multi-Agent Communication, Hypergraph Topologies, Collaboration"
+  keywords_zh: "多智能体通信，超图拓扑，协作"
+  abstract: "A study of evolving hypergraph topologies for collaboration in multi-agent communication."
+  abstract_zh: "研究在多智能体通信协作中演化超图拓扑的方法。"
