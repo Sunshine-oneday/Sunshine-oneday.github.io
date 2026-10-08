@@ -17,9 +17,9 @@
     document.querySelectorAll('.pub-venue').forEach(function (element) {
       var value = element.textContent;
       if (isChinese) {
-        value = value.replace('Submitted to:', '投稿至：').replace('Preprint / under review', '预印本 / 审稿中').replace('Target venue:', '目标会议：').replace('Preprint / manuscript', '预印本 / 手稿').replace('Main Conference', '主会').replace('Poster', '海报');
+        value = value.replace('Submitted to:', '投稿至：').replace('Preprint / under review', '预印本 / 审稿中').replace('Target venue:', '目标会议：').replace('Preprint / manuscript', '预印本 / 手稿').replace('Main Conference', '主会').replace('Oral', '口头报告').replace('Poster', '海报');
       } else {
-        value = value.replace('投稿至：', 'Submitted to:').replace('预印本 / 审稿中', 'Preprint / under review').replace('目标会议：', 'Target venue:').replace('预印本 / 手稿', 'Preprint / manuscript').replace('主会', 'Main Conference').replace('海报', 'Poster');
+        value = value.replace('投稿至：', 'Submitted to:').replace('预印本 / 审稿中', 'Preprint / under review').replace('目标会议：', 'Target venue:').replace('预印本 / 手稿', 'Preprint / manuscript').replace('主会', 'Main Conference').replace('口头报告', 'Oral').replace('海报', 'Poster');
       }
       element.textContent = value;
     });
