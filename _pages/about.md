@@ -18,7 +18,7 @@ author_profile: true
 - <span data-lang-en="National Scholarship" data-lang-zh="国家奖学金">National Scholarship</span>
 - <span data-lang-en="Kaggle competitions: 1 Gold, 3 Silver, and 2 Bronze medals (Master)" data-lang-zh="Kaggle 竞赛：1 金、3 银、2 铜（Master）">Kaggle competitions: 1 Gold, 3 Silver, and 2 Bronze medals (Master)</span>
 - <span data-lang-en="First Prize, FLTRP · ETIC Cup" data-lang-zh="外研社·国才杯一等奖">First Prize, FLTRP · ETIC Cup</span>
-- <span data-lang-en="National Second Prize, National Business Elite Challenge" data-lang-zh="全国商科精英挑战赛全国二等奖">National Second Prize, National Business Elite Challenge</span>
+- <span data-lang-en="National Second Prize, National Business Elite Challenge" data-lang-zh="全国商业精英挑战赛全国二等奖">National Second Prize, National Business Elite Challenge</span>
 - <span data-lang-en="National Third Prize, National College Student Information Security Contest" data-lang-zh="全国大学生信息安全竞赛全国三等奖">National Third Prize, National College Student Information Security Contest</span>
 - <span data-lang-en="Third Prize, AdventureX AI Hackathon Qoder Track (¥2,000)" data-lang-zh="AdventureX AI黑客松 Qoder赛道三等奖（¥2000）">Third Prize, AdventureX AI Hackathon Qoder Track (¥2,000)</span>
 - <span data-lang-en="Top Ten Academic Individual" data-lang-zh="十佳学业个人">Top Ten Academic Individual</span>
