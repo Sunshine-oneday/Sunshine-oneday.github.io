@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" role="img" aria-label="EvoHyper cover">
+  <rect width="1000" height="600" fill="#eef5f4"/>
+  <g stroke="#a5c9c5" stroke-width="8"><path d="M664 177 828 244 738 397 909 423M664 177 738 397M828 244 909 423"/></g>
+  <g fill="#619d98"><circle cx="664" cy="177" r="24"/><circle cx="828" cy="244" r="24"/><circle cx="738" cy="397" r="24"/><circle cx="909" cy="423" r="24"/></g>
+  <text x="76" y="110" fill="#3a7772" font-family="Trebuchet MS,Helvetica,sans-serif" font-size="26" font-weight="700" letter-spacing="5">MULTI-AGENT SYSTEMS</text>
+  <text x="74" y="315" fill="#193f3d" font-family="Trebuchet MS,Helvetica,sans-serif" font-size="104" font-weight="700">EvoHyper</text>
+  <text x="80" y="378" fill="#668c89" font-family="Trebuchet MS,Helvetica,sans-serif" font-size="34">Evolving collaboration topologies</text>
+</svg>

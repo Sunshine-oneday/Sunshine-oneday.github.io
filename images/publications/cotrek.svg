@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" role="img" aria-label="CoTrek cover">
+  <rect width="1000" height="600" fill="#f1f5fb"/>
+  <circle cx="778" cy="308" r="190" fill="#dfe9f8"/>
+  <circle cx="778" cy="308" r="122" fill="#c9daf3"/>
+  <path d="M630 330h285M775 160v296" stroke="#7b9ac9" stroke-width="5" opacity=".65"/>
+  <text x="76" y="110" fill="#315a8b" font-family="Trebuchet MS,Helvetica,sans-serif" font-size="26" font-weight="700" letter-spacing="5">REASONING AGENTS</text>
+  <text x="74" y="315" fill="#152d50" font-family="Trebuchet MS,Helvetica,sans-serif" font-size="112" font-weight="700">CoTrek</text>
+  <text x="80" y="378" fill="#587395" font-family="Trebuchet MS,Helvetica,sans-serif" font-size="34">On-policy distillation</text>
+</svg>

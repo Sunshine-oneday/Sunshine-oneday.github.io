@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" role="img" aria-label="PolyMind cover">
+  <rect width="1000" height="600" fill="#f3f1fb"/>
+  <g fill="none" stroke="#b6a9d5" stroke-width="5" opacity=".8"><circle cx="760" cy="300" r="170"/><circle cx="760" cy="300" r="114"/><circle cx="760" cy="300" r="58"/></g>
+  <path d="M620 300h280M760 160v280" stroke="#b6a9d5" stroke-width="4" opacity=".6"/>
+  <text x="76" y="110" fill="#69518f" font-family="Trebuchet MS,Helvetica,sans-serif" font-size="26" font-weight="700" letter-spacing="5">REFLECTIVE REASONING</text>
+  <text x="74" y="315" fill="#30244e" font-family="Trebuchet MS,Helvetica,sans-serif" font-size="104" font-weight="700">PolyMind</text>
+  <text x="80" y="378" fill="#786893" font-family="Trebuchet MS,Helvetica,sans-serif" font-size="34">Width scaling in language agents</text>
+</svg>

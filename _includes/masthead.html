@@ -1,0 +1,24 @@
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="/" data-lang-en="Homepage" data-lang-zh="主页">Homepage</a></li>
+          {% for link in site.data.navigation.main %}
+            {% assign nav_zh = link.title %}
+            {% case link.title %}
+              {% when "About Me" %}{% assign nav_zh = "关于我" %}
+              {% when "Honors" %}{% assign nav_zh = "荣誉奖项" %}
+              {% when "Publications" %}{% assign nav_zh = "学术论文" %}
+              {% when "Projects" %}{% assign nav_zh = "项目经历" %}
+            {% endcase %}
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" data-lang-en="{{ link.title }}" data-lang-zh="{{ nav_zh }}">{{ link.title }}</a></li>
+          {% endfor %}
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+    <button type="button" class="language-toggle" id="language-toggle" aria-label="Switch language" aria-pressed="false">中文</button>
+  </div>
+</div>
